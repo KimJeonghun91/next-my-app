@@ -1,11 +1,15 @@
 {
-  "name": "next",
-  "version": "14.1.2",
-  "description": "The React Framework",
+  "name": "next-my-app",
+  "version": "0.0.1",
+  "description": "nextjs 커스텀 프로젝트",
   "main": "./dist/server/next.js",
   "license": "MIT",
-  "repository": "vercel/next.js",
-  "bugs": "https://github.com/vercel/next.js/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KimJeonghun91/next-my-app",
+    "directory": "packages/next"
+  },
+  "author": "KimJeonghun91",
   "homepage": "https://nextjs.org",
   "types": "index.d.ts",
   "files": [
