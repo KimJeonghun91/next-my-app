@@ -2,6 +2,8 @@
 
 - npm install -g pnpm@8.15.4
 
+- corepack enable pnpm
+
 - pnpm install
 
 - pnpm run build

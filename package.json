@@ -76,7 +76,7 @@
     "@next/eslint-plugin-next": "14.1.2",
     "@next/font": "workspace:*",
     "@next/mdx": "14.1.2",
-    "@next/plugin-storybook": "14.1.2",
+    "@next/plugin-storybook": "workspace:*",
     "@next/polyfill-module": "14.1.2",
     "@next/polyfill-nomodule": "14.1.2",
     "@next/swc": "workspace:*",
