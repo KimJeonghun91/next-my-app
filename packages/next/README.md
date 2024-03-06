@@ -15,3 +15,9 @@
 - npm run build
 
 - npm publish
+
+## next 빌드 방법 2
+
+- npx turbo run build --scope next
+
+- npx lerna run build --scope next
