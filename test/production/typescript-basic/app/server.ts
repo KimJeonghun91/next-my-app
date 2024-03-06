@@ -1,8 +1,4 @@
 import next from 'next'
-import bundleAnalyzer from '@next/bundle-analyzer'
-
-// eslint-disable-next-line
-const config = bundleAnalyzer({})
 
 const app = next({
   dir: '.',
