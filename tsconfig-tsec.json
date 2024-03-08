@@ -3,7 +3,6 @@
     "plugins": [
       {
         "name": "tsec",
-        "exemptionConfig": "./tsec-exemptions.json"
       }
     ]
   }
