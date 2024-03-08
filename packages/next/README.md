@@ -1,4 +1,4 @@
-## 설치
+### 설치
 
 - npm install -g pnpm@8.15.4
 
@@ -10,7 +10,7 @@
 
 - cargo build --release
 
-## next core 빌드 및 배포
+### next core 빌드 및 배포
 
 - cd packages/next
 
@@ -18,7 +18,7 @@
 
 - npm publish
 
-## next 빌드 방법 2
+### next 빌드 방법 2
 
 - npx turbo run build --scope next
 
