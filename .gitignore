@@ -2,7 +2,6 @@
 /docs
 
 # build output
-dist
 !.github/actions/*/dist
 .next
 target
